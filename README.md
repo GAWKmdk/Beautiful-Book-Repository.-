@@ -1,4 +1,5 @@
-Book Preview with BookBlock
+Text with Photo Previewing Animation - Re-usable layout for catalog preview and download now. 
+
 =========
 
 A "look inside" book preview with BookBlock. A concept for book showcases or online book stores that shows a grid of books with the options to view the details and to look inside of the book, opening the BookBlock in fullscreen and allowing for a 3D page navigation.
